@@ -161,7 +161,7 @@ p {color: black;}
 }
 
 .home-testimonial {
-  background-color: #231834;
+
   height: 380px
 }
 
@@ -246,7 +246,7 @@ p {color: black;}
   }
 }
 
-  .bambam, .luffy, .sanji {
+  .bambam, .luffy, .sanji, .goku {
     animation: scroll 70s linear infinite;
     background : url("https://images.unsplash.com/photo-1620646233562-f2a31ad24425?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHN0YXJyeSUyMHNreXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"), #111111;
     color: white;
